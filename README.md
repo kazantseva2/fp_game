@@ -3,9 +3,9 @@
 
 
 Для того чтобы выучить заклинание у профессора, надо подойти к профессору (находиться в одной комнате), затем поговорить с ним (чтоб узнать какими он владеет заклинаниями): 
-(send me talk-to 'Susan-Hockfield)  сокращенно: (talk-to 'Susan-Hockfield)
+(send me talk-to 'Susan-Hockfield) == сокращенно: (talk-to 'Susan-Hockfield)
 И далее выучить одно из предложенных заклинаний:
-(send me learn-spell 'slug-spell 'Susan-Hockfield)  (learn 'slug-spell 'Susan-Hockfield)
+(send me learn-spell 'slug-spell 'Susan-Hockfield) == (learn 'slug-spell 'Susan-Hockfield)
 
 
 Введены 2 новых заклинания. Для того чтобы применить заклинание оно должно быть у Вас, цель должна быть в одной с Вами комнате и надо ввести в консоль: (cast 'patronus 'grendel)
