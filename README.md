@@ -1,4 +1,4 @@
-# fp_game
+# Отчет
 ![схема](https://github.com/kazantseva2/fp_game/blob/main/Рисунок2.svg)
 
 
